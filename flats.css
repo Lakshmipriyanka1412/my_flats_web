@@ -1,0 +1,146 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.flat-card {
+    background-color: #ffffff;
+    text-align: center;
+    height: 35vh;
+    padding: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.heading {
+    color: #f19116;
+    font-family: Bree serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.paragraph {
+    color: #7b8794;
+    font-family: Bree serif;
+    font-size: 13px;
+}
+
+
+.button-container {
+    text-align: center;
+}
+
+.button {
+    border-radius: 5px;
+    background-color: #f19116;
+    color: #ffffff;
+    border-width: 0px;
+}
+
+.second-bg-container {
+    background-color: #222222;
+    height: 120vh;
+    background-size: cover;
+}
+
+.second-heading {
+    color: #f19116;
+    font-size: 25px;
+    font-family: Bree serif;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.flat-image {
+    height: 135px;
+    width: 70px;
+}
+
+.card-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.text-container {
+    background-color: #ffffff;
+    text-align: left;
+    padding: 8px;
+}
+
+.small-heading {
+    color: #0f0e46;
+    font-size: 20px;
+    font-family: Bree serif;
+    font-weight: bold;
+}
+
+.small-paragraph {
+    color: #7b8794;
+    font-family: Bree serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+.button-second-container {
+    text-align: left;
+    padding: 10px;
+}
+
+.back-button {
+    height: 30px;
+    width: 100px;
+    background-color: #f19116;
+    color: #ffffff;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 7px;
+}
+
+.clear-image {
+    height: 40vh;
+    width: 68vh;
+}
+
+.bottom-section {
+    background-color: #222222;
+    height: 70vh;
+    padding: 16px;
+}
+
+.clear-heading {
+    color: #f19116;
+    font-size: 25px;
+    font-family: Bree serif;
+    font-weight: bold;
+}
+
+.small-para {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: Bree serif;
+    font-weight: bold;
+}
+
+.loco-image {
+    height: 30px;
+    width: 30px;
+}
+
+.big-heading {
+    color: #f19116;
+    font-size: 20px;
+    font-family: Bree serif;
+    font-weight: bold;
+}
+
+.description {
+    color: #ffffff;
+    font-family: Bree serif;
+    font-size: 18px;
+    font-weight: bold;
+}
